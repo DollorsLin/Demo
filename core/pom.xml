@@ -19,7 +19,7 @@
 		<spring-cloud.version>Greenwich.SR1</spring-cloud.version>
 		<swagger.version>2.7.0</swagger.version>
 		<fastjson.version>1.2.58</fastjson.version>
-		<commons.io.version>2.5</commons.io.version>
+		<commons.io.version>2.7</commons.io.version>
 		<commons.codec.version>1.9</commons.codec.version>
 		<mybatisplus.version>3.0.7.1</mybatisplus.version>
 		<skipTests>true</skipTests>
